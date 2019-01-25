@@ -33,6 +33,7 @@
                   android:screenOrientation="portrait"
                   android:label="@string/solution_2_c2">
         </activity>
+        <activity android:name=".DetailPlayerActivity"/>
     </application>
 
 </manifest>

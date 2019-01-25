@@ -65,7 +65,7 @@ public class Solution2C1Activity extends AppCompatActivity {
         });
     }
 
-    public static class MyViewHolder extends ViewHolder {
+    public static class MyViewHolder extends ViewHolder{
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
         }
